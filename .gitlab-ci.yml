@@ -1,0 +1,5 @@
+test:
+  script:
+    - pip install poetry
+    - poetry install
+    - pytest
