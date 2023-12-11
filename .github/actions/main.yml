@@ -1,5 +1,4 @@
-# name: ci
-
+name: ci
 jobs:
   test:
     runs-on: ubuntu:22.04
